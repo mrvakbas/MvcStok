@@ -4,3 +4,4 @@
 *.js linguist-detectable=false  
 *.scss linguist-detectable=false  
 *.less inguist-detectable=false
+*.html inguist-detectable=false
