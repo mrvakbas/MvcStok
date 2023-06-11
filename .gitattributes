@@ -1,8 +1,0 @@
-
-*.csharp linguist-detectable=true  
-*.css linguist-detectable=false  
-*.js linguist-detectable=false  
-*.sass linguist-detectable=false  
-*.less inguist-detectable=false
-*.html inguist-detectable=false
-
