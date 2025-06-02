@@ -1,7 +1,7 @@
 ***# MvcStok***
 ### Murat Yücedağ ile Mvc Stok Uygulaması
 
-
-![](https://i.hizliresim.com/hmo30fq.png)
-![](https://i.hizliresim.com/nyqb3u5.png)
-![](https://i.hizliresim.com/b9rs46r.png)
+***## PROJE GÖRSELLERİ ##***
+![](https://resmim.net/cdn/2025/06/02/Tljh4I.png)
+![](https://resmim.net/cdn/2025/06/02/TljJwZ.png)
+![](https://resmim.net/cdn/2025/06/02/TljxWR.png)
